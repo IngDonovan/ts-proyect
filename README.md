@@ -1,0 +1,2 @@
+# ts-proyect
+TypesCript proyect
